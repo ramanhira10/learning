@@ -1,0 +1,126 @@
+Javascript Learning Path
+	Fundamentals of JavaScript
+		script tag
+		Browser console
+		link external file
+		
+		variables
+			declarations
+				let
+				const
+				var
+			scope
+				Global
+				Function
+				Block
+			Hoisting
+		
+		Data type and Data structures
+			Primitive
+				undefined
+				Boolean
+				Number
+				BigInt
+				String
+				Sumbol
+			non primitive
+				null
+				Object
+				Function
+			Array
+			Map/WeakMap
+			Set/ Weak Set
+			Date
+			
+		Type Conversion
+			Explicit conversion
+			Implicit conversion
+			
+		Equality
+			== vs ===
+		
+		Loops
+			while
+			do...while
+			for
+			break/contine
+			for...in
+			for...of
+			
+		Control Flow
+			if...else
+			switch
+			try/catch/throw
+		
+		Expression and Operators
+			Assignment Operators
+			Arithmetic Operators
+			Logical Operators
+			Conditional Operators
+			Relational Operators
+			Bitwise Operators
+			String Operators
+			Comma Operators
+			Unary Operators
+			
+		Functions
+			Function Declarations
+			Function Expressions
+			Calling Functions
+			Parameters and Arguments
+			Scope
+			Arrow Functions
+	
+	Advanced
+		Advanced Scope
+		Closure
+		Currying
+		
+		this
+			Implicit Binding
+			Explicit Binding
+			new Binding
+			Lexical Binding
+			Default Binding
+			
+		Prototype
+		Prototypal Inheritance
+		Class
+		Iterators
+		Generators
+		Event Loops
+		
+		Asynchronous JavaScript
+			setTimeout
+			setInterval
+			Callbacks
+			Prmoises
+			async/await
+			
+		Module System
+			CJS
+			ESM
+			import/export
+			Default and Named Exports
+	
+	Client Side Web APIs
+		DOM
+		XHR and Fetch
+		Storage
+		Video and Audio
+		Drawing Graphics
+		
+	Tools and Misc
+		Linters
+			eslint
+			
+		Code Formatters
+			Profiler
+			
+		Bundlers
+			Webpack
+			Roolup
+			Parcel
+		
+		TypeScript
+		
