@@ -1,0 +1,64 @@
+React Learning Path
+
+	Fundamentals
+		Create React App
+		Functional Components
+		Class Components
+		JSX
+		Props and State
+		setState and Component Lifecycle methods
+		useState and useEffect Hooks
+		conditional rendering
+		lists and keys
+		building simple forms
+		
+	Advanced Topics
+		Context APIs (solves the problem of prop drilling)
+		Higher order components
+		Render Props
+		Refs and Forwarding Refs
+		Error Boundaries
+		Portals
+		HTTP Request
+			GET,
+			POST,
+			PUT,
+			DELETE,
+			PATCH
+		Hooks
+			useContext
+			useReducer
+			useRef
+			useMemo
+			useCallback
+			Custom Hooks
+			
+	Ecosystem
+		State management
+			Redux
+			Mobx
+			Apoolo Client (GraphQL)
+		Routing
+			React Router
+		Styling
+			Styled Components / Emotion
+			Tailwind CSS
+			Chakra UI / Material UI / Ant Design
+		Forms
+			Formik
+			React Hook Form
+		Testing
+			JEST + React Testing Library
+			Cypress
+		Misc
+			Typescript
+			Storybook
+			React i18Next
+			Firebase (Node + Mongo DB)
+			Practical React LIbraries (models, charts and graphs etc)
+		
+		Next steps
+			Gatsby (static site generation)
+			Next.js (Servier Side rendering apps)
+			React Native (Native Mobile Apps)
+			PWA (Hybrid Apps)
