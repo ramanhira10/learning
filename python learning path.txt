@@ -1,0 +1,41 @@
+Syntax and Basics
+
+    The python shell, basic arithmetics
+    control structures
+    accepting user input, string and typecasting
+    looping in python: for and while
+    exception handling
+    functions, modules and imports
+
+OOPs concetps and built-in data structures
+    Object oriented programming in python
+    Lists and List functions
+    Regular Expressions
+    List comprehensions
+    List slicing
+    String formatting
+    Lambdas
+    List, Dictionaries and Tuples
+
+Frameworks
+    Django
+    Flask
+
+Desktop applications
+    Tkinter
+    PyQT
+    Kivy
+
+Data analysis
+    Numpty
+    Pandas
+
+Machine Learning
+    TensorFlow
+    Scikit-Learning
+    PyTorch
+
+Build Projects
+    Simple Interest/EMI Calculator
+    Weather applications
+    E-commerce application
