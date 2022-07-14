@@ -1,0 +1,144 @@
+
+Associate Architect
+
+Key considerations for architectural considerations while designing solutions
+
+    NFRs: Non Functional Requirements
+        Performance
+        Security
+        SEO
+        Scalability
+        DevOps
+        Web Accessibility
+
+Considerations for choosing a framework after solution designing
+    Availability of tools and debuggers
+    Faster development
+    Popularity and Stability of framework
+    Availability of developer and their competencies
+    Design patterns
+
+Atomic Design patterns 
+    Minimum Responsibility
+    Molecule
+    Page
+
+Javascript Designn patterns
+
+    Creational
+        Factory
+
+    Structural
+    
+    Behavioral
+
+SOLID principles
+    S
+    O
+    L
+    I
+    D
+
+Closures
+    Example
+    lexical scope
+
+Temporal Deadzone
+
+Context
+    this keyword
+    how to change the context in Javascript
+
+Async and Defer
+
+webpack, grunt, gulp
+
+webpack from scratch
+
+Unit Testing
+    JEST, React Testing Library
+
+Callback Functions
+    functions which are passed to another function and called in another function.
+
+React
+    useState
+
+react or hooks side effects
+
+Middlewares
+
+Redux
+    connect method from redux
+
+Responsive web design
+    media queries
+
+    orientation for landscape or portrait
+
+    mobile first
+        end user perspective
+        development practices
+
+    Desktop first
+        intranet
+        Enterprise application
+
+Flexbox / Grid
+
+    img src set
+
+    using picture tag
+
+web worker and service worker
+
+Accessibility
+    A, AA, AAA and section 508 standards
+
+    importance of Accessibility
+        mandatory Requirements
+    ARIA tags
+        use cases and scenarios
+
+    Assistive Technologies
+
+    ARIA labelled by
+
+    Tools to check web Accessibility
+        web vitals
+        lighthouse
+        FCP - First Content Paint
+        TTL - Time to live
+        TTFB - 
+
+        PA11y
+        A11y-react-x
+
+        JAWs - licensed
+        NVDA - opensource
+        VoiceOver - IOS
+        Talkback - Android
+        Chrometalk - Chrome
+
+Linting tools
+    ESLint
+    SASSLint
+
+HTML
+
+CSS
+
+Caching
+
+what are the different domains of working in the PBS
+
+How would my dailry routine look like
+
+expecation as a architect
+
+key Responsibility areas
+
+measures of an architect
+
+better understanding of role
+
