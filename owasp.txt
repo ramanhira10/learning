@@ -1,0 +1,49 @@
+OWASP
+Open Web Application Security principles
+
+    1. Broken Access Control: this exposure occurs when confidential information is viewed by a user who should not have permission to access to that data. When a user is able to act beyond the permission of their role
+        Access Control: Making sure that people have access to what they're supposed to and don't have access what they're not
+
+    Takeaway: Wnen sending the private information, make sure you are sending it to the right person. Be intentional about building solid access control to your system.
+
+    2. Cryptographic Failures: The first this is to determine the protection need of data in transit and at a rest. For example, passwords, credit card numbers, health records, personal information, and business secrets require extra protection.
+        Part 1.
+            Think about the data that's being collected, stored and understanding
+            More sensitive, restricted, regulated or private data needs to be more protected
+            Encrypt data to protect it
+
+        Part 2.
+            Follow well known, proven procedures to ensure data is encrypted effectively
+        
+        Steps in implementing additional protection
+            * If you are storing sensitive data, encrypt it at rest and in transit
+            * If you are encrypting data, use known, strong cryptographic algorithms
+
+    Takeaway: 1. If you have data that needs protecting in web app, you should encrypt it
+        2. If you decide to encrypt data, follow best practices
+
+    3. Injection: * Occurs when there is an opportunity for a user to provide input
+        * Application handles that input incorrectly
+        * Bad actor could inject malicious code that ends up being interpreted as instruction
+
+        Cross Site Scripting (XSS): * Application does not neutralize user input    
+        * Does not verify the input is safe, legitimate and in the correct format
+
+        Attacks against Backend Databases: SQL Injection attack to create, read, update or delete something in a backend sql database. Taeke advantage of unmounted user input field to trick application
+
+    Takeaway: you need to neutralize or verify user input in your web applications.
+
+    4. Insecure Design: A new category focusing on risks related to design and architural flaws
+        Example of insecure design:
+            Sensitive information in error message
+                Error message: Useful in development phase for troubleshooting
+                need to eliminate unnecessary error messages before code is pushed to production
+                Unsanitized messages may contain information that can help malicious actors craft an attack
+            Plaintext password:
+
+        Takeaway: * Security matters not only in development and production, but design as well
+        * Consult with security experts to ensure appropriate requirements and design decisions are being made early on
+
+
+        
+
