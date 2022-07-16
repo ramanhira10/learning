@@ -22,24 +22,24 @@ Considerations for choosing a framework after solution designing
 
 Atomic Design patterns 
     Minimum Responsibility
-    Molecule
-    Page
+    atom >> molecule >> organisms >> templates >> page
 
 Javascript Designn patterns
 
     Creational
         Factory
+        Singleton
 
     Structural
     
     Behavioral
 
 SOLID principles
-    S
-    O
-    L
-    I
-    D
+    S: Single Responsibility principle
+    O: Open/Closed, Open for extensions and Closed for modifications
+    L: Liskov Principle
+    I: Interface segregation
+    D: Dependency Inversion
 
 Closures
     Example
