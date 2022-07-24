@@ -1,0 +1,28 @@
+
+OWASP
+
+IDM
+
+CSRF
+
+XSS
+
+CORS
+
+JWT
+
+Authentication
+
+implement https
+
+auditing and logging
+
+different layers of Caching
+
+Performance
+
+    web vitals
+
+    Total Blocking Time
+
+AAIMP-Dev-AKS-Admin

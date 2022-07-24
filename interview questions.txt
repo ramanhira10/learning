@@ -1,4 +1,10 @@
 
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
+
+https://medium.com/docler-engineering/applying-solid-to-react-ca6d1ff926a4
+
+https://www.freecodecamp.org/news/javascript-design-patterns-explained/#roundup
+
 Blackline Safety, SigFig, Steelhaus Technologies, Helcim, Leap Tools,  AppDirect
 
 Associate Architect
