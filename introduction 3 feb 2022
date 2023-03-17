@@ -1,0 +1,41 @@
+Hi, My name is Raman Hira. I am a Senior front end to full stack developer with 14+ years of industry experience and a specialization in developing UI for the web and mobile.
+
+I am familar with tools and technologies used in software developments and related processes. I am familiar with Javascript, ES6, React, Node and many other skills used in web technologies.
+
+I have a deep interest in development and I have made numerous projects using web technologies like React and Node js. I also got a chance to work in Germany for one of the project for internaltional assignment in my current company.
+
+
+React Redux
+
+Redux is a predictable state container for Javascript apps.
+
+It is for javascript apps
+
+It is a state container - It stores the state of application. It will store and manage application state.
+
+It is predictable - The state of application can change. In redux, all state transitions are explicit and it is possible to keep track of them. Hence, the changes in application's state becomes predictable.
+
+
+React <========> React-Redux <========> Redux
+
+
+
+app dispatch action to reducer which update the redux store (state) which is subscribed the app
+
+
+
+reducer specify how the app's state changes in response to actions sent to the store. It is a function that accepts state and actions as arguments, and returns the next state of the application.
+
+(previousState, action) => newState
+
+redux store - one store for the entire application. It holds application state. it allows access to state via getState(). It allows state to be updated via dispatch(action). it registers listeners via subscribe (listener). It handles unregistering of listeners via the function returned by subscribe(listener).
+
+Middleware is the suggested way to extend Redux with custom functionality. Provides a third party extension point between dispatching an action, and the moment it reaches the reducer. Middlewares can be used in logging, crash reporting, performing asynchronous tasks etc.
+
+Synchronous Actions: As soon as action was dispatched, the state was immediately updated.
+
+Async Actions: Asynchronous API calls to fetch data from an end point and use that data in your application.
+
+axios: requests to API end point
+
+redux-thunk: Define async action creators
