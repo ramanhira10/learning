@@ -111,3 +111,10 @@ Example - Paragraph:
 - Each of the children has arrived.
 - The mother and her child are going to the market.
 - Esha as well as her sister is taking part in the school sports.
+
+
+vocabulary:
+team, crew, staff, flock, pack, orchestra, class, troupe, pride, family, forest, band, army, litter, string of pearls, school of fish, crowd, people, children,
+
+dreaded - regarded with great fear or apprehension
+example - The dreaded news came that Joe had been wounded.
